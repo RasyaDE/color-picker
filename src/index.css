@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.color-container {
+  width: 75vw;
+}
+
+.color-display {
+  padding: 20px;
+  height: 300px;
+  border: 1px none;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
